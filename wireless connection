@@ -1,0 +1,3 @@
+adb devices
+adp tcpip 5555
+adb connect deviceip:5555
